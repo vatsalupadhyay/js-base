@@ -8,8 +8,8 @@ let accountState;
 
 // not use var as it causes block problems
 accountEmail= "vatsal.google"
-accountPassword ="54321"
-accountCity="bengaluru"
+accountPassword ="123456"
+accountCity="Mumbai"
 console.log(accountId);
 
 console.table([accountId,accountEmail,accountPassword,accountCity, accountState])
