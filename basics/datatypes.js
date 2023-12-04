@@ -17,7 +17,7 @@ object
 console.log(typeof "vatsal")
 console.log(typeof null)
 console.log(typeof undefined)
-
+console.log("hey there javascript")
 // primitive 
 
 //call by value
