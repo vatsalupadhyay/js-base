@@ -49,4 +49,16 @@ Return type of variables in JavaScript
        stack = primitive
        heap = reference
 
+information about promises : 
+
+for example there is a code the possiblitles are whether it will execute or it will not which means the code is rejected if the code is executed it is handled 
+
+
+fetch api promises axios this all requires an async code 
+
+
+javascript is not async 
+ 
+
+
        */
